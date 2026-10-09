@@ -94,9 +94,9 @@ RP 表单是**联动**的：填完 `Source Type` / `Type` 之后，表单才展�
 |---|--------|----|----|
 | 1 | Source Type | Internal | 下拉 |
 | 2 | Type | Project | 下拉 |
-| 3 | Project | LI2500347 | 搜索 |
+| 3 | Project | **** | 搜索 |
 | 4 | **Resource** | *（留空）* | 搜索 |
-| 5 | FYear(FYyy) | FY26 | 文本 |
+| 5 | FYear(FYyy) | **** | 文本 |
 | 6–17 | Apr / May / Jun / Jul / Aug / Sep / Oct / Nov / Dec / Jan / Feb / Mar | *（留空）* | 数字 |
 
 - 每行都可改 **字段名 / 要选择的值 / 类型**（下拉、搜索、文本、数字），改完自动保存。
